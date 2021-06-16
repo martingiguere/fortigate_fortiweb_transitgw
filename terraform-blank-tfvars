@@ -1,0 +1,12 @@
+access_key         = ""
+secret_key         = ""
+keypair            = ""
+fgt_admin_password = ""
+fwb1_license_file  = ""
+fwb2_license_file  = ""
+fgt1_license_file  = ""
+fgt2_license_file  = ""
+region             = "us-east-1"
+availability_zone1 = "us-east-1a"
+availability_zone2 = "us-east-1b"
+
